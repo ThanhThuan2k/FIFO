@@ -1,0 +1,7 @@
+D:\C#\Queue\FIFO\FIFO\obj\Debug\FIFO.csprojAssemblyReference.cache
+D:\C#\Queue\FIFO\FIFO\obj\Debug\FIFO.csproj.CoreCompileInputs.cache
+D:\C#\Queue\FIFO\FIFO\bin\Debug\FIFO.exe.config
+D:\C#\Queue\FIFO\FIFO\bin\Debug\FIFO.exe
+D:\C#\Queue\FIFO\FIFO\bin\Debug\FIFO.pdb
+D:\C#\Queue\FIFO\FIFO\obj\Debug\FIFO.exe
+D:\C#\Queue\FIFO\FIFO\obj\Debug\FIFO.pdb
